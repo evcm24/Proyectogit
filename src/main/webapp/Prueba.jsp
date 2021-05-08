@@ -13,6 +13,7 @@
     </head>
     <body>
         <%
+            System.out.println("Fanylu");
             System.out.println("Holaa");
 
         %>
